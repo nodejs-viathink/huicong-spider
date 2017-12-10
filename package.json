@@ -1,0 +1,21 @@
+{
+  "name": "huicong-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lijianxun",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "http-proxy-agent": "^2.0.0",
+    "iconv-lite": "^0.4.19",
+    "log4js": "^1.1.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
